@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! I'm Krashul Varshney
 
-<!--
-**KRASHULVARSHNEY/KRASHULVARSHNEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying **AI and Data Science** at **IIT Jodhpur**. Passionate about leveraging data to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+*   🔭 Currently focusing on Machine Learning, Deep Learning, and Data Analytics.
+*   🌱 Enthusiastic about learning new frameworks and tools in AI.
+*   📫 How to reach me: https://www.linkedin.com/in/krashul-varshney-a2647541b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+*   **Languages:** Python, SQL
+*   **Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+*   **ML/AI:** Scikit-learn, TensorFlow
+*
